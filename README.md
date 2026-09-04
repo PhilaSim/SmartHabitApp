@@ -1,22 +1,27 @@
 # SmartHabitApp
 
-A habit-tracking application designed to help users build consistency, monitor progress, and turn everyday goals into sustainable routines.
+> A habit-tracking application designed to help users build consistency, monitor progress, and turn goals into sustainable routines.
 
 ## Overview
 
-**SmartHabitApp** focuses on making habit tracking simple and motivating. It is a practical project exploring productivity workflows, user interaction, progress tracking, and responsive application design.
+**SmartHabitApp** is a productivity-focused project exploring habit tracking, progress monitoring, user interaction, and responsive application design. The goal is to keep the experience simple enough for everyday use while providing a foundation for future enhancements.
 
-## Highlights
+## Features
 
-- 🎯 Habit-focused tracking
-- 📈 Progress-oriented experience
-- 🔄 Designed for consistent daily use
-- 📱 Responsive interface
-- 🧠 Productivity and self-improvement focused
+- Habit-focused tracking
+- Progress-oriented experience
+- Daily consistency workflow
+- Responsive interface
+- Productivity and self-improvement focus
 
 ## Getting Started
 
-Clone the repository and install the dependencies required by the project.
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
 
 ```bash
 git clone https://github.com/PhilaSim/SmartHabitApp.git
@@ -25,22 +30,23 @@ npm install
 npm run dev
 ```
 
-> Check the project's package configuration for the exact development command if it differs from the example above.
+Check `package.json` for the project's configured scripts if the development command differs.
 
-## Project Goals
+## Project Objectives
 
 - Encourage consistent habits through simple tracking
 - Explore productivity-focused application design
-- Build a foundation that can be extended with analytics, reminders, and personalization
+- Practice responsive UI development
+- Establish a foundation for analytics, reminders, and personalization
 
 ## Contributing
 
-Ideas, bug reports, and improvements are welcome. Open an issue or submit a pull request with a clear description of your contribution.
+Contributions are welcome. Open an issue to discuss significant changes or submit a pull request with a clear description of the improvement.
 
 ## License
 
-No license has been specified for this repository yet.
+No license has been specified for this repository.
 
----
+## Author
 
-Built by **PhilaSim**.
+**PhilaSim**
